@@ -25,7 +25,7 @@ namespace CleanArchMvc.Domain.Tests
                 .WithMessage("Invalid Id value");
         }
 
-        // copy to the others methods...
+        // copy to the others methods
 
 
 
